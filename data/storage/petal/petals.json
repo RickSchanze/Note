@@ -1,0 +1,11 @@
+[
+	{
+		"name": "siyuan-css-image-block-centered",
+		"displayName": "居中图片块",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	}
+]

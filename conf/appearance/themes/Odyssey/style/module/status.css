@@ -1,0 +1,13 @@
+/* ———————————————————— 底栏 ———————————————————— */
+
+#status {
+    background-color: var(--O-toolbar-background);
+	border: none;
+	padding: 0 4px;
+}
+
+.status__msg:not(:empty):before{
+	content: "📢";
+	font-size:12px;
+	padding-right:6px;
+}

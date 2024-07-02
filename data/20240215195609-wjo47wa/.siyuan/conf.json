@@ -1,0 +1,11 @@
+{
+  "name": "计算机网络摘抄",
+  "sort": 3,
+  "icon": "",
+  "closed": false,
+  "refCreateSavePath": "",
+  "docCreateSavePath": "",
+  "dailyNoteSavePath": "/daily note/{{now | date \"2006/01\"}}/{{now | date \"2006-01-02\"}}",
+  "dailyNoteTemplatePath": "",
+  "sortMode": 15
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Algorithm",
+  "sort": 2,
+  "icon": "Algorithm.png",
+  "closed": false,
+  "refCreateSavePath": "",
+  "docCreateSavePath": "",
+  "dailyNoteSavePath": "/daily note/{{now | date \"2006/01\"}}/{{now | date \"2006-01-02\"}}",
+  "dailyNoteTemplatePath": "",
+  "sortMode": 15
+}
