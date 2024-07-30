@@ -528,7 +528,7 @@
       "focusId": "20240429194953-qy5zevd",
       "focusStart": 55,
       "rootId": "20240419194216-8bj3fjf",
-      "scrollTop": 31344,
+      "scrollTop": 32044,
       "startId": "20240419194216-15c6b0w"
     },
     "20240422220855-u3mjcwm": {
@@ -546,7 +546,7 @@
       "focusId": "20240422220949-7nrekw0",
       "focusStart": 583,
       "rootId": "20240422220907-clap6wp",
-      "scrollTop": 3801,
+      "scrollTop": 0,
       "startId": "20240422220907-i1qr0xj"
     },
     "20240422223130-bgo9nae": {
@@ -575,15 +575,18 @@
     },
     "20240423173311-1xfto07": {
       "endId": "20240423173340-fdbvcln",
+      "focusEnd": 0,
+      "focusId": "20240423173311-l5ub5mw",
+      "focusStart": 0,
       "rootId": "20240423173311-1xfto07",
-      "scrollTop": 10498,
+      "scrollTop": 10398,
       "startId": "20240423173311-l5ub5mw"
     },
     "20240426003219-km3wq1o": {
       "endId": "20240426003628-1dyeaj8",
-      "focusEnd": 2,
-      "focusId": "20240426003236-0y040wm",
-      "focusStart": 2,
+      "focusEnd": 0,
+      "focusId": "20240426003248-ikkrux0",
+      "focusStart": 0,
       "rootId": "20240426003219-km3wq1o",
       "scrollTop": 700,
       "startId": "20240426003248-ikkrux0"
@@ -596,11 +599,11 @@
     },
     "20240429201045-jyxljhi": {
       "endId": "20240510230836-6dff0hx",
-      "focusEnd": 93,
-      "focusId": "20240507173101-5m2lv7t",
-      "focusStart": 93,
+      "focusEnd": 14,
+      "focusId": "20240510221646-j4bn18a",
+      "focusStart": 14,
       "rootId": "20240429201045-jyxljhi",
-      "scrollTop": 0,
+      "scrollTop": 22212,
       "startId": "20240429201045-u0yidc9"
     },
     "20240507091117-yu9tjuq": {
@@ -614,21 +617,15 @@
     },
     "20240510221620-7hldw2l": {
       "endId": "20240510221621-kxpu3fa",
-      "focusEnd": 10,
-      "focusId": "20240510221621-kxpu3fa",
-      "focusStart": 10,
       "rootId": "20240510221620-7hldw2l",
-      "scrollTop": 0,
+      "scrollTop": 4700,
       "startId": "20240510221621-vv04147"
     },
     "20240513190009-3u8sw8e": {
       "endId": "20240515093749-ykv8cu1",
-      "focusEnd": 0,
-      "focusId": "20240515093438-cdk9nuw",
-      "focusStart": 0,
       "rootId": "20240513190009-3u8sw8e",
-      "scrollTop": 26830,
-      "startId": "20240513190806-a2y1swn"
+      "scrollTop": 4274,
+      "startId": "20240513200402-h84yyk1"
     },
     "20240515095150-8vk8fss": {
       "endId": "20240516091947-wqx90yc",
@@ -636,17 +633,17 @@
       "focusId": "20240516082022-ns33wpz",
       "focusStart": 0,
       "rootId": "20240515095150-8vk8fss",
-      "scrollTop": 1994.857177734375,
+      "scrollTop": 10883,
       "startId": "20240515095203-3smkwph"
     },
     "20240516092031-i0m1xfc": {
-      "endId": "20240610101211-491yoc1",
-      "focusEnd": 15,
-      "focusId": "20240606080107-ox8ymut",
-      "focusStart": 15,
+      "endId": "20240730143153-ohvrb9p",
+      "focusEnd": 374,
+      "focusId": "20240730143153-8bw89xf",
+      "focusStart": 374,
       "rootId": "20240516092031-i0m1xfc",
-      "scrollTop": 15918.857421875,
-      "startId": "20240527153422-8oubde0"
+      "scrollTop": 29892.5,
+      "startId": "20240606080804-dksegnv"
     },
     "20240528171058-xlrodlt": {
       "endId": "20240528171059-jzue07h",
@@ -684,8 +681,8 @@
   },
   "local-fontstyles": [
     "color​var(--b3-font-color4)",
-    "clear​undefined",
     "style1​var(--b3-card-error-background)​var(--b3-card-error-color)",
+    "clear​undefined",
     "backgroundColor​var(--b3-font-background3)",
     "color​var(--b3-font-color5)",
     "color​var(--b3-font-color1)",
@@ -696,12 +693,22 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "粗糙表面的次表面模型",
+      "方差",
+      "",
+      "光源",
+      "遮挡",
+      "TSR",
+      "本影",
+      "半影",
+      "alpha to ",
+      "alpha ",
+      "次表面散射距离",
       "9.56",
       "9.57",
       "9.8",
       "9.16",
       "shadow",
-      "遮挡",
       "半导体",
       "导体",
       "镜面反射",
@@ -712,7 +719,6 @@
       "rad",
       "irrad",
       "自阴影",
-      "",
       "子阴影",
       "pcss",
       "pcf",
@@ -741,7 +747,7 @@
     "layoutTab": 0,
     "replaceKeys": [],
     "row": "",
-    "rowTab": ""
+    "rowTab": "603px"
   },
   "pdfjs.history": "{\"files\":[{\"fingerprint\":\"d1c536be441b37b38e5410b16509806f\",\"sidebarView\":0,\"page\":3,\"zoom\":\"auto\",\"scrollLeft\":-14,\"scrollTop\":407,\"rotation\":0}]}",
   "tsundoku-color-href": "/appearance/themes/Tsundoku/style/theme/Tsundoku_light.css"

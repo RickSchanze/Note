@@ -5,34 +5,9 @@
     "title": "Chapter9 基于物理的着色 Physically Based Shading"
   },
   {
-    "rootID": "20240609101901-t6e7t22",
-    "icon": "",
-    "title": "基于物理着色：BRDF"
-  },
-  {
-    "rootID": "20240528171058-xlrodlt",
-    "icon": "",
-    "title": "半球积分"
-  },
-  {
     "rootID": "20240510221620-7hldw2l",
     "icon": "",
     "title": "UE426终于实现了Alpha to Coverage"
-  },
-  {
-    "rootID": "20240515095150-8vk8fss",
-    "icon": "",
-    "title": "Chapter8 光与颜色 Light and Color"
-  },
-  {
-    "rootID": "20240422220855-u3mjcwm",
-    "icon": "",
-    "title": "各种文章收录"
-  },
-  {
-    "rootID": "20240308235814-5efa3pd",
-    "icon": "",
-    "title": "Chapter4 变换"
   },
   {
     "rootID": "20240513190009-3u8sw8e",
@@ -48,6 +23,51 @@
     "rootID": "20240429201045-jyxljhi",
     "icon": "",
     "title": "Chapter6 纹理 Texturing"
+  },
+  {
+    "rootID": "20240515095150-8vk8fss",
+    "icon": "",
+    "title": "Chapter8 光与颜色 Light and Color"
+  },
+  {
+    "rootID": "20240127165529-d1zdtue",
+    "icon": "",
+    "title": "基本概念"
+  },
+  {
+    "rootID": "20240423173311-1xfto07",
+    "icon": "",
+    "title": "MSAA基础"
+  },
+  {
+    "rootID": "20240422220907-clap6wp",
+    "icon": "",
+    "title": "非真实感渲染（NPR） - Gooch着色模型"
+  },
+  {
+    "rootID": "20240426003219-km3wq1o",
+    "icon": "",
+    "title": "Unity Shader 点阵像素剔除半透（Stipple Transparency ）"
+  },
+  {
+    "rootID": "20240609101901-t6e7t22",
+    "icon": "",
+    "title": "基于物理着色：BRDF"
+  },
+  {
+    "rootID": "20240528171058-xlrodlt",
+    "icon": "",
+    "title": "半球积分"
+  },
+  {
+    "rootID": "20240422220855-u3mjcwm",
+    "icon": "",
+    "title": "各种文章收录"
+  },
+  {
+    "rootID": "20240308235814-5efa3pd",
+    "icon": "",
+    "title": "Chapter4 变换"
   },
   {
     "rootID": "20240306234035-4k805q2",
@@ -68,21 +88,6 @@
     "rootID": "20240331103531-0nxbyn8",
     "icon": "",
     "title": "Chapter4 同步操作"
-  },
-  {
-    "rootID": "20240423173311-1xfto07",
-    "icon": "",
-    "title": "MSAA基础"
-  },
-  {
-    "rootID": "20240426003219-km3wq1o",
-    "icon": "",
-    "title": "Unity Shader 点阵像素剔除半透（Stipple Transparency ）"
-  },
-  {
-    "rootID": "20240422220907-clap6wp",
-    "icon": "",
-    "title": "非真实感渲染（NPR） - Gooch着色模型"
   },
   {
     "rootID": "20240305231916-mrvfstt",
@@ -143,15 +148,5 @@
     "rootID": "20240215211823-2pxcmdb",
     "icon": "",
     "title": "Unreal"
-  },
-  {
-    "rootID": "20240215211810-ppi32yf",
-    "icon": "",
-    "title": "游戏开发"
-  },
-  {
-    "rootID": "20240213193613-u4cc2j7",
-    "icon": "",
-    "title": "malloc、free和new、delete区别"
   }
 ]
