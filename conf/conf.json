@@ -132,7 +132,7 @@
     "tagOpenMarker": "#",
     "tagCloseMarker": "#",
     "fileAnnotationRefMode": 0,
-    "pandocBin": "C:\\Users\\hulkzhou\\Documents\\Tmp\\Note-master\\temp\\pandoc\\bin\\pandoc.exe",
+    "pandocBin": "C:\\Users\\hulkzhou\\Documents\\Tmp\\Note-master\\Note\\temp\\pandoc\\bin\\pandoc.exe",
     "markdownYFM": false,
     "pdfFooter": "%page / %pages",
     "docxTemplate": "",
@@ -227,7 +227,6 @@
                 {
                   "children": [
                     {
-                      "active": true,
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20240516092031-i0m1xfc",
@@ -240,6 +239,35 @@
                       "instance": "Tab",
                       "pin": false,
                       "title": "Chapter9 基于物理的着色 Physically Based Shading"
+                    },
+                    {
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20240515095150-8vk8fss",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20240305231911-ukwe044",
+                        "rootId": "20240515095150-8vk8fss"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Chapter8 光与颜色 Light and Color"
+                    },
+                    {
+                      "active": true,
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20240801160859-cdp2wvb",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20240305231911-ukwe044",
+                        "rootId": "20240801160859-cdp2wvb"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Chapter 10 Local Illumination 局部光照"
                     }
                   ],
                   "height": "",
@@ -1188,7 +1216,7 @@
     "cTreeCount": 100,
     "blockCount": 5946,
     "cBlockCount": 10000,
-    "dataSize": 63191572,
+    "dataSize": 63191788,
     "cDataSize": 104857600,
     "assetsSize": 60371080,
     "cAssetsSize": 104857600
