@@ -1,13 +1,8 @@
 [
   {
-    "rootID": "20240801160859-cdp2wvb",
+    "rootID": "20240305231916-mrvfstt",
     "icon": "",
-    "title": "Chapter 10 Local Illumination 局部光照"
-  },
-  {
-    "rootID": "20240515095150-8vk8fss",
-    "icon": "",
-    "title": "Chapter8 光与颜色 Light and Color"
+    "title": "Chapter2 图像渲染管线"
   },
   {
     "rootID": "20240516092031-i0m1xfc",
@@ -15,19 +10,29 @@
     "title": "Chapter9 基于物理的着色 Physically Based Shading"
   },
   {
+    "rootID": "20240801160859-cdp2wvb",
+    "icon": "",
+    "title": "Chapter 10 Local Illumination 局部光照"
+  },
+  {
     "rootID": "20240308235814-5efa3pd",
     "icon": "",
     "title": "Chapter4 变换"
   },
   {
-    "rootID": "20240513190009-3u8sw8e",
+    "rootID": "20240515095150-8vk8fss",
     "icon": "",
-    "title": "Chapter7 阴影 Shadows"
+    "title": "Chapter8 光与颜色 Light and Color"
   },
   {
     "rootID": "20240510221620-7hldw2l",
     "icon": "",
     "title": "UE426终于实现了Alpha to Coverage"
+  },
+  {
+    "rootID": "20240513190009-3u8sw8e",
+    "icon": "",
+    "title": "Chapter7 阴影 Shadows"
   },
   {
     "rootID": "20240419194216-8bj3fjf",
@@ -93,11 +98,6 @@
     "rootID": "20240331103531-0nxbyn8",
     "icon": "",
     "title": "Chapter4 同步操作"
-  },
-  {
-    "rootID": "20240305231916-mrvfstt",
-    "icon": "",
-    "title": "Chapter2 图像渲染管线"
   },
   {
     "rootID": "20240411225109-poxmpfx",
